@@ -7,13 +7,14 @@
 
  $wget https://github.com/gushmazuko/metasploit_in_termux/raw/master/metasploit.sh
 
-
  $chmod +x metasploit.sh
 
  $./metasploit.sh
 
-      𝙻𝚊𝚞𝚗𝚌𝚑 𝚖𝚎𝚝𝚊𝚜𝚙𝚕𝚘𝚒𝚝
+   Launch metasploit
+
+     $msfconsole
   
 After installation complete execute:
 
- $msfconsole
+ 
